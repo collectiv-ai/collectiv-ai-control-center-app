@@ -209,9 +209,9 @@ but conceptually this is the structure.)*
 
 **Requirements:**
 
-- macOS 15.x (Sequoia or similar)
-- Xcode 16+ (SwiftUI + Swift Concurrency)
-- Apple Silicon (M2 Max) – but project should also run on Intel for UI only
+- macOS 26.1.x (Sequoia or similar)
+- Xcode 26.1 (SwiftUI + Swift Concurrency)
+- Apple Silicon (M2 Max)
 
 **Build steps:**
 
@@ -224,7 +224,7 @@ but conceptually this is the structure.)*
    ```bash
    open CollectivAIControlCenter.xcodeproj
    ```
-3. Select the **CollectivAIControlCenter** app target.
+3. Select the **CollectiVAIControlCenter** app target.
 4. Run on **My Mac (Designed for macOS)**.
 
 Since everything currently runs in **Safe Mode / Dummy Mode**,  
