@@ -1,6 +1,16 @@
-
 <p align="center">
   <img src="logo.png" alt="CollectivAI Logo" width="400" />
+</p>
+
+<p align="center">
+  <b>CollectiVAI Control Center – macOS</b><br/>
+  <sub>Local AI · Crypto Nodes · Security · Operator Dashboard</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-architecture_only-blue" />
+  <img src="https://img.shields.io/badge/mode-safe_default-green" />
+  <img src="https://img.shields.io/badge/platform-macOS%20M2%20Max-black" />
 </p>
 
 # CollectiVAI Control Center (macOS)
@@ -8,11 +18,14 @@
 > **Status:** Architecture & UI only – all integrations are running in **Safe Mode** (no real shell commands executed yet).  
 > This app is the **central cockpit** for a local AI + Security + Crypto ecosystem on a **MacBook Pro M2 Max**.
 
+CollectivAI Control Center is built to manage a full local AI + Security + Crypto stack on a single macOS machine –  
+privacy‑first, node‑driven, and 100% under the operator’s control.
+
 ---
 
 ## ✨ Overview
 
-The **CollectiVAI Control Center** is a SwiftUI macOS app that acts as a  
+The **CollectivAI Control Center** is a SwiftUI macOS app that acts as a  
 **single pane of glass** for a complex local ecosystem:
 
 - Local AI (Ollama, PrivateGPT, agents)
@@ -30,6 +43,20 @@ At the current stage, the app focuses on:
 
 No real system commands are executed yet – everything is still **simulated**  
 and prepared for future live integration.
+
+---
+
+## 🖼 Screenshots
+
+> _Placeholder paths – replace with your real screenshots once added to the repo (e.g. `docs/` folder)._
+
+<p align="center">
+  <img src="docs/screenshot-main-control-center.png" alt="Main Control Center" width="900" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshot-crypto-nodes.png" alt="Crypto & Nodes Panel" width="900" />
+</p>
 
 ---
 
@@ -240,9 +267,7 @@ once all security checks and flow are fully defined.
 
 ---
 
-## 📌 Roadmap
-
-Short version of the planned next steps:
+## 🧭 Planned Panels
 
 - **Playbooks Panel**
   - Morning Routine (AI + Nodes + Security snapshot)
@@ -268,6 +293,20 @@ Short version of the planned next steps:
     - ETH / ERC-20
     - TAO
   - Later: direct node queries once Live Mode is enabled.
+
+---
+
+## 🌐 Ecosystem
+
+This app is part of the broader **CollectivAI** ecosystem:
+
+- macOS blue-team / operator machine (M2 Max)
+- Kali / UTM red-team setups
+- Ubuntu / TAO nodes
+- Hardware lab (WiFi Pineapple, HackRF, CM5, etc.)
+
+See also the GitHub org:  
+👉 https://github.com/collectiv-ai
 
 ---
 
