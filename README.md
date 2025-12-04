@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="logo.png" alt="CollectivAI Logo" width="400" />
+  <img src="logo.png" alt="CollectiVAI Logo" width="400" />
 </p>
 
 <p align="center">
-  <b>CollectivAI Control Center – macOS</b><br/>
+  <b>CollectiVAI Control Center – macOS</b><br/>
   <sub>Local AI · Crypto Nodes · Security · Operator Dashboard</sub>
 </p>
 
@@ -13,19 +13,19 @@
   <img src="https://img.shields.io/badge/platform-macOS%20M2%20Max-black" />
 </p>
 
-# CollectivAI Control Center (macOS)
+# CollectiVAI Control Center (macOS)
 
 > **Status:** Architecture & UI only – all integrations are running in **Safe Mode** (no real shell commands executed yet).  
 > This app is the **central cockpit** for a local AI + Security + Crypto ecosystem on a **MacBook Pro M2 Max**.
 
-CollectivAI Control Center is built to manage a full local AI + Security + Crypto stack on a single macOS machine –  
+CollectiVAI Control Center is built to manage a full local AI + Security + Crypto stack on a single macOS machine –  
 privacy-first, node-driven, and 100% under the operator’s control.
 
 ---
 
 ## ✨ Overview
 
-The **CollectivAI Control Center** is a SwiftUI macOS app that acts as a  
+The **CollectiVAI Control Center** is a SwiftUI macOS app that acts as a  
 **single pane of glass** for a complex local ecosystem:
 
 - Local AI (Ollama, PrivateGPT, agents)
