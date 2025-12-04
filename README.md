@@ -284,7 +284,7 @@ once all security checks and flow are fully defined.
 
 ## 🌐 Ecosystem
 
-This app is part of the broader **CollectivAI** ecosystem:
+This app is part of the broader **CollectiVAI** ecosystem:
 
 - macOS blue-team / operator machine (M2 Max)
 - Kali / UTM red-team setups
