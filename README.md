@@ -188,7 +188,7 @@ CollectivAIControlCenter/
 │  ├─ WelcomeView.swift
 │  ├─ SettingsView.swift
 │  ├─ Panels/
-│  │  ├─ OverviewPanel.swift        (oder in MainControlCenterView.swift)
+│  │  ├─ OverviewPanel.swift
 │  │  ├─ AIAgentsPanel.swift
 │  │  ├─ CryptoNodesPanel.swift
 │  │  ├─ SecurityPanel.swift
