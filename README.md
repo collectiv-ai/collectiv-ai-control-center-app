@@ -193,7 +193,7 @@ CollectivAIControlCenter/
 │  │  ├─ CryptoNodesPanel.swift
 │  │  ├─ SecurityPanel.swift
 │  │  ├─ WalletsPanel.swift
-│  │  └─ AlertsPanel.swift          (planned)
+│  │  └─ AlertsPanel.swift
 │
 └─ Resources/
    ├─ Assets.xcassets
